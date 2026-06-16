@@ -4,7 +4,7 @@ Dataset overview
 
 1,000 students, 8 columns — 5 categorical (gender, race/ethnicity, parental education, lunch type, test prep) and 3 numeric (math, reading, writing scores). No missing values at all.
 
-Student: Ikhazobor Michael Izuagie | Course: Data Science |1st Assessment: Pandas Analysis Assessment The notebook analyses the StudentsPerformance.csv dataset across 5 sections using Python (pandas, numpy, matplotlib).
+Student: Okafor Joachin Chibuike | Course: Data Science |1st Assessment: Pandas Analysis Assessment The notebook analyses the StudentsPerformance.csv dataset across 5 sections using Python (pandas, numpy, matplotlib).
 
 Section A — Basic Exploration. Loads the dataset and performs foundational inspection: viewing first/last 10 rows, .info(), .shape, column names, identifying numeric vs categorical columns, descriptive statistics, and checking for missing values. The dataset has 3 numeric columns (math, reading, writing scores). Five categorical columns (gender, race/ethnicity, parental education, lunch, test prep course).
 
